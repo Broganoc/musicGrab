@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: musicgrab
+Formal-Name: musicGrab
+App-ID: com.example.musicgrab
+Version: 0.0.1
+Home-page: https://example.com/musicgrab
+Download-URL: https://example.com/musicgrab
+Author: Jane Developer
+Author-email: jane@example.com
+Summary: My first application

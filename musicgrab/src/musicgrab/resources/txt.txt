@@ -1,0 +1,3 @@
+client_id = 'c2ec9959815441548b32c086e9325132'
+client_secret = '58a48b0103fe41f6ad5af40f6dde2c09'
+api_key = 'AIzaSyBYORpV8kJ_4FVf6sm_A709ENCjkc7DtlE'

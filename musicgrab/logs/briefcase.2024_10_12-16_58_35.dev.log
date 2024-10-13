@@ -1,0 +1,395 @@
+Date/Time:       2024-10-12 16:58:35 
+Command line:    C:\Users\broga\Desktop\musicGrab\venv\scripts\briefcase dev
+
+OS Release:      Windows 10
+OS Version:      10.0.19045
+Architecture:    AMD64
+Platform:        Windows-10-10.0.19045-SP0
+
+Python exe:      C:\Users\broga\Desktop\musicGrab\venv\Scripts\python.exe
+Python version:  3.12.7 (tags/v3.12.7:0b05ead, Oct  1 2024, 03:06:41) [MSC v.1941 64 bit (AMD64)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.19
+Target platform: windows
+Target format:   None
+
+Environment Variables:
+	ALLUSERSPROFILE=C:\ProgramData
+	APPDATA=C:\Users\broga\AppData\Roaming
+	CLION=C:\Program Files\JetBrains\CLion 2021.3.3\bin;
+	COMMONPROGRAMFILES=C:\Program Files\Common Files
+	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+	COMMONPROGRAMW6432=C:\Program Files\Common Files
+	COMPUTERNAME=LAPTOP-L3BECE55
+	COMSPEC=C:\WINDOWS\system32\cmd.exe
+	D3DGEARPATH=c:\program files (x86)\iracing\d3dgear
+	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+	FPS_BROWSER_USER_PROFILE_STRING=Default
+	GPU_MAX_ALLOC_PERCENT=100
+	GPU_USE_SYNC_OBJECTS=1
+	HOMEDRIVE=C:
+	HOMEPATH=\Users\broga
+	JETBRAINS_INTELLIJ_COMMAND_END_MARKER=u1NJdyUym3VdFwkrQvQUUbJmsU7Cg4podJYiSxlywcsJJR7O5RZOAH8fnVG4SXc0
+	LOCALAPPDATA=C:\Users\broga\AppData\Local
+	LOGONSERVER=\\LAPTOP-L3BECE55
+	NUMBER_OF_PROCESSORS=12
+	ONEDRIVE=C:\Users\broga\OneDrive
+	ONEDRIVECONSUMER=C:\Users\broga\OneDrive
+	OS=Windows_NT
+	PATH=C:\Users\broga\Desktop\musicGrab\venv\scripts;C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\broga\AppData\Local\Programs\Python\Python39\Scripts;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;c:\program files (x86)\iracing\d3dgear;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\broga\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Users\broga\AppData\Local\Microsoft\WindowsApps;C:\msys64\mingw64\bin;C:\Program Files\JetBrains\CLion 2021.3.3\bin;C:\Program Files\JetBrains\RubyMine 2022.2.2\bin;C:\Users\broga\.dotnet\tools;C:\Program Files\JetBrains\PyCharm 2022.3.2\bin;C:\Program Files\JetBrains\PyCharm 2024.2.3\bin;;C:\Users\broga\.dotnet\tools;C:\Users\broga\AppData\Local\Programs\Microsoft VS Code\bin
+	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+	PROCESSOR_ARCHITECTURE=AMD64
+	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+	PROCESSOR_LEVEL=6
+	PROCESSOR_REVISION=9e0a
+	PROGRAMDATA=C:\ProgramData
+	PROGRAMFILES=C:\Program Files
+	PROGRAMFILES(X86)=C:\Program Files (x86)
+	PROGRAMW6432=C:\Program Files
+	PSEXECUTIONPOLICYPREFERENCE=Bypass
+	PSMODULEPATH=C:\Users\broga\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	PUBLIC=C:\Users\Public
+	PYCHARM=C:\Program Files\JetBrains\PyCharm 2024.2.3\bin;
+	RUBYMINE=C:\Program Files\JetBrains\RubyMine 2022.2.2\bin;
+	SESSIONNAME=Console
+	SYSTEMDRIVE=C:
+	SYSTEMROOT=C:\WINDOWS
+	TEMP=C:\Users\broga\AppData\Local\Temp
+	TERMINAL_EMULATOR=JetBrains-JediTerm
+	TERM_SESSION_ID=9970e4f2-3077-4cb0-8ba9-d2747953c78f
+	TMP=C:\Users\broga\AppData\Local\Temp
+	USERDOMAIN=LAPTOP-L3BECE55
+	USERDOMAIN_ROAMINGPROFILE=LAPTOP-L3BECE55
+	USERNAME=broga
+	USERPROFILE=C:\Users\broga
+	VIRTUAL_ENV=C:\Users\broga\Desktop\musicGrab\venv
+	VIRTUAL_ENV_PROMPT=venv
+	WINDIR=C:\WINDOWS
+	_OLD_VIRTUAL_PATH=C:\Program Files\Python312\Scripts\;C:\Program Files\Python312\;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Razer\ChromaBroadcast\bin;C:\Program Files\Razer\ChromaBroadcast\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Windows\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\broga\AppData\Local\Programs\Python\Python39\Scripts;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;c:\program files (x86)\iracing\d3dgear;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\broga\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\SSH Communications Security\SSH Secure Shell;C:\Users\broga\AppData\Local\Microsoft\WindowsApps;C:\msys64\mingw64\bin;C:\Program Files\JetBrains\CLion 2021.3.3\bin;C:\Program Files\JetBrains\RubyMine 2022.2.2\bin;C:\Users\broga\.dotnet\tools;C:\Program Files\JetBrains\PyCharm 2022.3.2\bin;C:\Program Files\JetBrains\PyCharm 2024.2.3\bin;;C:\Users\broga\.dotnet\tools;C:\Users\broga\AppData\Local\Programs\Microsoft VS Code\bin
+
+pyproject.toml:
+# This project was generated with 0.3.19 using template: https://github.com/beeware/briefcase-template@v0.3.19
+[tool.briefcase]
+project_name = "musicGrab"
+bundle = "com.example"
+version = "0.0.1"
+url = "https://example.com/musicgrab"
+license.file = "LICENSE"
+author = "Jane Developer"
+author_email = "jane@example.com"
+
+[tool.briefcase.app.musicgrab]
+formal_name = "musicGrab"
+description = "My first application"
+long_description = """More details about the app should go here.
+"""
+sources = [
+    "src/musicgrab",
+]
+test_sources = [
+    "tests",
+]
+
+requires = [
+]
+test_requires = [
+    "pytest",
+]
+
+[tool.briefcase.app.musicgrab.macOS]
+universal_build = true
+requires = [
+    "toga-cocoa~=0.4.5",
+    "std-nslog~=1.0.0",
+]
+
+[tool.briefcase.app.musicgrab.linux]
+requires = [
+    "toga-gtk~=0.4.5",
+]
+
+[tool.briefcase.app.musicgrab.linux.system.debian]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "libcairo2-dev",
+    # Needed to compile PyGObject wheel
+    "libgirepository1.0-dev",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK and its GI bindings
+    "gir1.2-gtk-3.0",
+    "libgirepository-1.0-1",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # Note: Debian 11 and Ubuntu 20.04 require gir1.2-webkit2-4.0 instead
+    # "gir1.2-webkit2-4.1",
+]
+
+[tool.briefcase.app.musicgrab.linux.system.rhel]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to support Python bindings to GTK
+    "gobject-introspection",
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk3",
+]
+
+[tool.briefcase.app.musicgrab.linux.system.suse]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to support Python bindings to GTK
+    "gobject-introspection", "typelib(Gtk) = 3.0",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra-gtk3-module",
+    # Needed to provide WebKit2 at runtime
+    # "libwebkit2gtk3", "typelib(WebKit2)",
+]
+
+[tool.briefcase.app.musicgrab.linux.system.arch]
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection",
+    # Runtime dependencies that need to exist so that the
+    # Arch package passes final validation.
+    # Needed to provide GTK
+    "gtk3",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2
+    # "webkit2gtk",
+]
+
+system_runtime_requires = [
+    # Needed to provide GTK
+    "gtk3",
+    # Needed to provide PyGObject bindings
+    "gobject-introspection-runtime",
+    # Dependencies that GTK looks for at runtime
+    "libcanberra",
+    # Needed to provide WebKit2 at runtime
+    # "webkit2gtk",
+]
+
+[tool.briefcase.app.musicgrab.linux.appimage]
+manylinux = "manylinux_2_28"
+
+system_requires = [
+    # Needed to compile pycairo wheel
+    "cairo-gobject-devel",
+    # Needed to compile PyGObject wheel
+    "gobject-introspection-devel",
+    # Needed to provide GTK
+    "gtk3-devel",
+    # Dependencies that GTK looks for at runtime, that need to be
+    # in the build environment to be picked up by linuxdeploy
+    "libcanberra-gtk3",
+    "PackageKit-gtk3-module",
+    "gvfs-client",
+]
+
+linuxdeploy_plugins = [
+    "DEPLOY_GTK_VERSION=3 gtk",
+]
+
+[tool.briefcase.app.musicgrab.linux.flatpak]
+flatpak_runtime = "org.gnome.Platform"
+flatpak_runtime_version = "45"
+flatpak_sdk = "org.gnome.Sdk"
+
+[tool.briefcase.app.musicgrab.windows]
+requires = [
+    "toga-winforms~=0.4.5",
+]
+
+# Mobile deployments
+[tool.briefcase.app.musicgrab.iOS]
+requires = [
+    "toga-iOS~=0.4.5",
+    "std-nslog~=1.0.0",
+]
+
+[tool.briefcase.app.musicgrab.android]
+requires = [
+    "toga-android~=0.4.5",
+]
+
+base_theme = "Theme.MaterialComponents.Light.DarkActionBar"
+
+build_gradle_dependencies = [
+    "com.google.android.material:material:1.11.0",
+    # Needed for DetailedList
+    # "androidx.swiperefreshlayout:swiperefreshlayout:1.1.0",
+    # Needed for MapView
+    # "org.osmdroid:osmdroid-android:6.1.0",
+]
+
+# Web deployments
+[tool.briefcase.app.musicgrab.web]
+requires = [
+    "toga-web~=0.4.5",
+]
+style_framework = "Shoelace v2.3"
+
+Briefcase Log:
+[16:58:35]                                                                                                                                                                dev.py:250
+           [musicgrab] Starting in dev mode...                                                                                                                            dev.py:250
+                                                                                                                                                                   subprocess.py:827
+           >>> Running Command:                                                                                                                                    subprocess.py:827
+           >>>     'C:\Users\broga\Desktop\musicGrab\venv\Scripts\python.exe' -c 'import runpy,                                                                    subprocess.py:827
+           sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("musicgrab", run_name="__main__", alter_sys=True)'                                                              
+           >>> Working Directory:                                                                                                                                  subprocess.py:827
+           >>>     C:\Users\broga                                                                                                                                  subprocess.py:827
+           >>> Environment Overrides:                                                                                                                              subprocess.py:827
+           >>>     PYTHONPATH=C:\Users\broga\Desktop\musicGrab\musicgrab\src                                                                                       subprocess.py:827
+           >>>     PYTHONMALLOC=default                                                                                                                            subprocess.py:827
+           >>>     PYTHONUNBUFFERED=1                                                                                                                              subprocess.py:827
+           >>>     PYTHONDEVMODE=1                                                                                                                                 subprocess.py:827
+           >>>     PYTHONUTF8=1                                                                                                                                    subprocess.py:827
+           ===========================================================================                                                                                    run.py:171
+           Traceback (most recent call last):                                                                                                                      subprocess.py:195
+             File "<string>", line 1, in <module>                                                                                                                  subprocess.py:195
+             File "<frozen runpy>", line 226, in run_module                                                                                                        subprocess.py:195
+             File "<frozen runpy>", line 98, in _run_module_code                                                                                                   subprocess.py:195
+             File "<frozen runpy>", line 88, in _run_code                                                                                                          subprocess.py:195
+             File "C:\Users\broga\Desktop\musicGrab\musicgrab\src\musicgrab\__main__.py", line 1, in <module>                                                      subprocess.py:195
+               from musicgrab.app import main                                                                                                                      subprocess.py:195
+             File "C:\Users\broga\Desktop\musicGrab\musicgrab\src\musicgrab\app.py", line 122                                                                      subprocess.py:195
+               })                                                                                                                                                  subprocess.py:195
+               ^                                                                                                                                                   subprocess.py:195
+           SyntaxError: closing parenthesis '}' does not match opening parenthesis '[' on line 121                                                                 subprocess.py:195
+                                                                                                                                                                      __main__.py:44
+           Problem running app musicgrab.                                                                                                                             __main__.py:45
+           Saving log... started                                                                                                                                      console.py:390
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Users\broga\Desktop\musicGrab\venv\Lib\site-packages\briefcase\__main__.py:29 in main                                                                                         │
+│                                                                                                                                                                                  │
+│   26 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   27 │   │   │   overrides=overrides,                                                                                                                                            │
+│   28 │   │   )                                                                                                                                                                   │
+│ ❱ 29 │   │   command(**options)                                                                                                                                                  │
+│   30 │   except HelpText as e:                                                                                                                                                   │
+│   31 │   │   logger.info()                                                                                                                                                       │
+│   32 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────────────── locals ─────────────────────────────────────────────────────────╮                                                      │
+│ │       command = <briefcase.commands.dev.DevCommand object at 0x000001C5CA15A060>                                        │                                                      │
+│ │       console = <briefcase.console.Console object at 0x000001C5CAFEDA30>                                                │                                                      │
+│ │             e = BriefcaseCommandError('Problem running app musicgrab.')                                                 │                                                      │
+│ │ extra_cmdline = []                                                                                                      │                                                      │
+│ │        logger = <briefcase.console.Log object at 0x000001C5CAFED970>                                                    │                                                      │
+│ │       options = {'appname': None, 'update_requirements': False, 'run_app': True, 'test_mode': False, 'passthrough': []} │                                                      │
+│ │     overrides = {}                                                                                                      │                                                      │
+│ │       printer = <briefcase.console.Printer object at 0x000001C5CAFC0DD0>                                                │                                                      │
+│ │        result = 200                                                                                                     │                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                      │
+│                                                                                                                                                                                  │
+│ C:\Users\broga\Desktop\musicGrab\venv\Lib\site-packages\briefcase\commands\dev.py:252 in __call__                                                                                │
+│                                                                                                                                                                                  │
+│   249 │   │   │   else:                                                                                                                                                          │
+│   250 │   │   │   │   self.logger.info("Starting in dev mode...", prefix=app.app_name)                                                                                           │
+│   251 │   │   │   env = self.get_environment(app, test_mode=test_mode)                                                                                                           │
+│ ❱ 252 │   │   │   return self.run_dev_app(                                                                                                                                       │
+│   253 │   │   │   │   app,                                                                                                                                                       │
+│   254 │   │   │   │   env,                                                                                                                                                       │
+│   255 │   │   │   │   test_mode=test_mode,                                                                                                                                       │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                      │
+│ │                 app = <com.example.musicgrab v0.0.1 AppConfig>                                          │                                                                      │
+│ │             appname = None                                                                              │                                                                      │
+│ │      dist_info_path = WindowsPath('C:/Users/broga/Desktop/musicGrab/musicgrab/src/musicgrab.dist-info') │                                                                      │
+│ │                 env = {                                                                                 │                                                                      │
+│ │                       │   'PYTHONPATH': 'C:\\Users\\broga\\Desktop\\musicGrab\\musicgrab\\src',         │                                                                      │
+│ │                       │   'PYTHONMALLOC': 'default',                                                    │                                                                      │
+│ │                       │   'PYTHONUNBUFFERED': '1',                                                      │                                                                      │
+│ │                       │   'PYTHONDEVMODE': '1',                                                         │                                                                      │
+│ │                       │   'PYTHONUTF8': '1'                                                             │                                                                      │
+│ │                       }                                                                                 │                                                                      │
+│ │             options = {}                                                                                │                                                                      │
+│ │         passthrough = []                                                                                │                                                                      │
+│ │             run_app = True                                                                              │                                                                      │
+│ │                self = <briefcase.commands.dev.DevCommand object at 0x000001C5CA15A060>                  │                                                                      │
+│ │           test_mode = False                                                                             │                                                                      │
+│ │ update_requirements = False                                                                             │                                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                      │
+│                                                                                                                                                                                  │
+│ C:\Users\broga\Desktop\musicGrab\venv\Lib\site-packages\briefcase\commands\dev.py:169 in run_dev_app                                                                             │
+│                                                                                                                                                                                  │
+│   166 │   │   │   )                                                                                                                                                              │
+│   167 │   │   │                                                                                                                                                                  │
+│   168 │   │   │   # Start streaming logs for the app.                                                                                                                            │
+│ ❱ 169 │   │   │   self._stream_app_logs(                                                                                                                                         │
+│   170 │   │   │   │   app,                                                                                                                                                       │
+│   171 │   │   │   │   popen=app_popen,                                                                                                                                           │
+│   172 │   │   │   │   test_mode=test_mode,                                                                                                                                       │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                      │
+│ │         app = <com.example.musicgrab v0.0.1 AppConfig>                                                  │                                                                      │
+│ │   app_popen = <Popen: returncode: 1 args: ['C:\\Users\\broga\\Desktop\\musicGrab\\venv\\Sc...>          │                                                                      │
+│ │     cmdline = [                                                                                         │                                                                      │
+│ │               │   'C:\\Users\\broga\\Desktop\\musicGrab\\venv\\Scripts\\python.exe',                    │                                                                      │
+│ │               │   '-c',                                                                                 │                                                                      │
+│ │               │   'import runpy, sys;sys.path.pop(0);sys.argv.extend([]);runpy.run_module("musicgra'+40 │                                                                      │
+│ │               ]                                                                                         │                                                                      │
+│ │         env = {                                                                                         │                                                                      │
+│ │               │   'PYTHONPATH': 'C:\\Users\\broga\\Desktop\\musicGrab\\musicgrab\\src',                 │                                                                      │
+│ │               │   'PYTHONMALLOC': 'default',                                                            │                                                                      │
+│ │               │   'PYTHONUNBUFFERED': '1',                                                              │                                                                      │
+│ │               │   'PYTHONDEVMODE': '1',                                                                 │                                                                      │
+│ │               │   'PYTHONUTF8': '1'                                                                     │                                                                      │
+│ │               }                                                                                         │                                                                      │
+│ │ main_module = 'musicgrab'                                                                               │                                                                      │
+│ │     options = {}                                                                                        │                                                                      │
+│ │ passthrough = []                                                                                        │                                                                      │
+│ │        self = <briefcase.commands.dev.DevCommand object at 0x000001C5CA15A060>                          │                                                                      │
+│ │   test_mode = False                                                                                     │                                                                      │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                      │
+│                                                                                                                                                                                  │
+│ C:\Users\broga\Desktop\musicGrab\venv\Lib\site-packages\briefcase\commands\run.py:202 in _stream_app_logs                                                                        │
+│                                                                                                                                                                                  │
+│   199 │   │   │   │   # If we're monitoring an actual app (not just a log stream),                                                                                               │
+│   200 │   │   │   │   # and the app didn't exit cleanly, surface the error to the user.                                                                                          │
+│   201 │   │   │   │   if popen.poll() != 0:                                                                                                                                      │
+│ ❱ 202 │   │   │   │   │   raise BriefcaseCommandError(f"Problem running app {app.app_name}.")                                                                                    │
+│   203 │   │                                                                                                                                                                      │
+│   204 │   │   except KeyboardInterrupt:                                                                                                                                          │
+│   205 │   │   │   pass  # Catch CTRL-C to exit normally                                                                                                                          │
+│                                                                                                                                                                                  │
+│ ╭──────────────────────────────────────────── locals ─────────────────────────────────────────────╮                                                                              │
+│ │          app = <com.example.musicgrab v0.0.1 AppConfig>                                         │                                                                              │
+│ │ clean_filter = None                                                                             │                                                                              │
+│ │ clean_output = False                                                                            │                                                                              │
+│ │   log_filter = <briefcase.commands.run.LogFilter object at 0x000001C5CB015850>                  │                                                                              │
+│ │   log_stream = False                                                                            │                                                                              │
+│ │        popen = <Popen: returncode: 1 args: ['C:\\Users\\broga\\Desktop\\musicGrab\\venv\\Sc...> │                                                                              │
+│ │         self = <briefcase.commands.dev.DevCommand object at 0x000001C5CA15A060>                 │                                                                              │
+│ │    test_mode = False                                                                            │                                                                              │
+│ ╰─────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                              │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Problem running app musicgrab.
